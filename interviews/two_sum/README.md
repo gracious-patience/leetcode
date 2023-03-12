@@ -3,3 +3,5 @@ Given an array of integers nums and an integer target, return indices of the two
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 You can return the answer in any order.
+
+Given O(n) solution is very fast, though it is a bit memory consuming.
